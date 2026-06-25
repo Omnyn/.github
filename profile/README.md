@@ -7,59 +7,23 @@
 
 <br><br>
 
-<h2>Construímos a base que impulsiona<br>empresas que levam tecnologia a sério.</h2>
+<h3>Empresa brasileira de tecnologia</h3>
 
-<p>
-  Infraestrutura, plataformas e produtos digitais sob medida.<br>
-  Da ideia ao produto, com engenharia de alto padrão.
-</p>
-
-<img src="https://img.shields.io/badge/Feito%20no-Brasil-009C3B?style=flat-square" alt="Feito no Brasil">
-
-</div>
+<p>Desenvolvimento, infraestrutura e sistemas sob medida.</p>
 
 <br>
 
-### Produtos
+<img src="https://img.shields.io/badge/Tecnologia-0D1117?style=flat-square" alt="Tecnologia">
+<img src="https://img.shields.io/badge/Desenvolvimento-0D1117?style=flat-square" alt="Desenvolvimento">
+<img src="https://img.shields.io/badge/Infraestrutura-0D1117?style=flat-square" alt="Infraestrutura">
+<img src="https://img.shields.io/badge/Feito%20no%20Brasil-009C3B?style=flat-square" alt="Feito no Brasil">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br><br>
 
-**Omnyn Mail** &nbsp; `em produção`
+<sub>STACK</sub>
 
-E-mail self-hosted no seu próprio domínio, com webmail, antispam e assinatura DKIM.
+<br><br>
 
-</td>
-<td width="50%" valign="top">
-
-**Omnyn QR** &nbsp; `em breve`
-
-QR Codes dinâmicos com analytics, links curtos e personalização da marca.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Omnyn CRM** &nbsp; `em desenvolvimento`
-
-Gestão de relacionamento, atendimento e funil de vendas num lugar só.
-
-</td>
-<td width="50%" valign="top">
-
-**Omnyn Host** &nbsp; `planejado`
-
-Hospedagem e deploy gerenciado para os seus projetos, sem dor de cabeça.
-
-</td>
-</tr>
-</table>
-
-### Stack
-
-<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Native-0A7EA4?style=flat-square&logo=react&logoColor=white" alt="React Native">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -70,45 +34,5 @@ Hospedagem e deploy gerenciado para os seus projetos, sem dor de cabeça.
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
 
-### Princípios de engenharia
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Type-safe por padrão**  
-TypeScript do front ao back, menos bug em produção.
-
-**Infraestrutura como código**  
-Ambientes reproduzíveis e deploy automatizado.
-
-</td>
-<td width="50%" valign="top">
-
-**Segurança em primeiro lugar**  
-Boas práticas, LGPD e dados protegidos por padrão.
-
-**Enxuto por natureza**  
-Performance e custo sob controle, sem desperdício.
-
-</td>
-</tr>
-</table>
-
-### Roadmap
-
-- [x] **Omnyn Mail** &nbsp; `em produção`
-- [ ] **Omnyn QR** &nbsp; `lançamento em breve`
-- [ ] **Omnyn CRM** &nbsp; `em desenvolvimento`
-- [ ] **Omnyn Host** &nbsp; `planejado`
-
-### Contribuir
-
-Em breve abriremos parte do nosso código. Issues, sugestões e ideias serão sempre bem-vindas por aqui.
-
-<div align="center">
-<br>
-<sub>© 2026 Omnyn. Tecnologia que faz a sua empresa crescer.</sub>
 </div>
